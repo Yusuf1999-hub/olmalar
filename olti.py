@@ -6,3 +6,7 @@ def fourth(a:list) -> list:
 
 data = ["salom@gmail.com", "malina@mail.com", "karam@gmail.com"]
 print(fourth(data))
+
+
+
+hellllooooo
